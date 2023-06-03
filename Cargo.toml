@@ -1,0 +1,16 @@
+[package]
+name = "suanshu"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Roy Wu"]
+repository = "https://github.com/r9w/suanshu"
+readme = "README.md"
+description = """
+A reliable, robust, and rapid math library implemented in pure Rust.
+
+This library is designed to handle a wide range of mathematical operations, including complex numbers, linear algebra, and numerical analysis. 
+
+It is highly performant and has been extensively tested to ensure accuracy and reliability.
+"""
+[dependencies]
